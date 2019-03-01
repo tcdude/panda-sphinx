@@ -1,8 +1,0 @@
-/__pycache__/
-/source/*.rst
-/build/
-*.pyc
-*.pyo
-/dump.xml
-/toctree.json
-/redirects.json
